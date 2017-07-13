@@ -1,0 +1,14 @@
+Question: Where am I?
+Answer: Cleveland
+Question: My name is ... 
+Answer: Ryan
+Question: My name is ...
+Answer: Ryan
+Question: What's The Mayor of CLE?
+Answer: Frank Jackson
+Question: My Cats Name is
+Answer: Kitten
+Question: what is today
+Answer: sunday
+Question: Test Question
+Answer: Test Answer
